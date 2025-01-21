@@ -2,11 +2,22 @@ The mod you never knew you needed as a builder...
 Plates. But good.
 
 This mod allows placing of any item onto plates.
-They appear at full size and can appear flipped if the plate is placed the opposite direction.
-Very useful for decorating.
-
-Items that have animated textures are unsupported and will look funny.
-This is not a mod issue - this is an issue with how the vanilla game renders these items.
+They appear at full size, and can be flipped if the plate is placed the opposite direction.
+Being able to place full item sprites opens up a huge avenue for decoration that was untapped.
+You can place mini furniture, or misaligned crates, for example.
 
 This mod is labeled as client side.
-You can use this in multiplayer without everyone requiring the mod, and they will see any items you place onto plates.
+You can use this in multiplayer without everyone or the server requiring the mod.
+Other players will be able to see items you place on plates, but animated items will be broken.
+
+
+Special thanks:
+jamzojamz - assisting with IL and ended up redoing the entire code for me. Can't thank you enough.
+ruterr - assisting with IL
+z_e_n_. - assisting with IL
+
+Without their help, I wouldn't have been able to make this work.
+
+
+Changelog:
+v0.1.2 - Animated item fix (thanks to jamzojamz!)

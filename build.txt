@@ -1,5 +1,6 @@
 displayName = Plates Accept Any Item
 author = Pirlo
-version = 0.1
+version = 0.1.2
 includeSource = true
 side = Client
+homepage = https://github.com/lost-werewolf/PlatesButGoodMod
