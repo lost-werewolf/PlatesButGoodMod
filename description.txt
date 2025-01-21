@@ -7,5 +7,5 @@ They appear at full size and can appear flipped if the plate is placed the oppos
 Items that have animated textures are unsupported and will look funny.
 This is not a mod issue - this is an issue with how the vanilla game renders these items.
 
-This mod is fully client sided.
-You can use this without everyone requiring the mod, and they will see any items you place onto plates.
+This mod is labeled as client side.
+You can use this in multiplayer without everyone requiring the mod, and they will see any items you place onto plates.
