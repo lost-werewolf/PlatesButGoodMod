@@ -1,0 +1,5 @@
+displayName = Plates Accept Any Item
+author = Pirlo
+version = 0.1
+includeSource = true
+side = Client
