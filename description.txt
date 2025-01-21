@@ -3,6 +3,7 @@ Plates. But good.
 
 This mod allows placing of any item onto plates.
 They appear at full size and can appear flipped if the plate is placed the opposite direction.
+Very useful for decorating.
 
 Items that have animated textures are unsupported and will look funny.
 This is not a mod issue - this is an issue with how the vanilla game renders these items.
